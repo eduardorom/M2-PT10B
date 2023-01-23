@@ -17,7 +17,7 @@ export default function Promotions() {
       />
       <img
         style={{ width: "50vw", paddingTop: "2em" }}
-        src="https://www.tarjetadeoferta.com/uploads/contest_det/avatar_dets/000/000/002/original/Banner.jpg"
+        src="https://internationalcruises.mx/wp-content/uploads/2022/01/ncl2601.jpg"
         alt="prom2"
       />
       <img
@@ -27,4 +27,5 @@ export default function Promotions() {
       />
     </div>
   );
+  
 }
